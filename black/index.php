@@ -1,7 +1,7 @@
 <?php
 
 //mysql database info-----//
-$host = "127.0.0.1:3306";
+$host = "127.0.0.1";
 $dbuser = "u766708725_Blackv1";
 $dbpass = "S7_toofan";
 $dbname = "u766708725_Blackv1";

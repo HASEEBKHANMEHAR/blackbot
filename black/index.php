@@ -1,10 +1,10 @@
 <?php
 
 //mysql database info-----//
-$host = "https://auth-db1059.hstgr.io";
-$dbuser = "u766708725_Blackv1";
-$dbpass = "S7_toofan";
-$dbname = "u766708725_Blackv1";
+$host = "sql6.freesqldatabase.com";
+$dbuser = "sql6638302";
+$dbpass = "8GQ6izauX2";
+$dbname = "sql6638302";
 //-----------////----////----///---///--+///
 $validauth = urlencode("INVALID CC!");
 $maintain = urlencode("UNDER MAINTANANCE");
